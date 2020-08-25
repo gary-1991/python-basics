@@ -17,6 +17,9 @@ def subtract(a,b):
 
 def test():
     print("test")
+    
+def train():
+    print("train")
 
 
 
