@@ -15,6 +15,8 @@ def subtract(a,b):
     x=a-b
     return x
 
+def test():
+    print("test")
 
 
 
